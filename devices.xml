@@ -2,4 +2,5 @@
 <devices>
     <!-- Official device codenames -->
     <device>pipa</device>
+    <device>beryllium</device>
 </devices>
