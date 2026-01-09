@@ -3,4 +3,6 @@
     <!-- Official device codenames -->
     <device>pipa</device>
     <device>beryllium</device>
+    <device>gta4l</device>
+    <device>gta4lwifi</device>
 </devices>
